@@ -1,0 +1,78 @@
+Despre job
+About Bosch Engineering Center Cluj
+
+Since its establishment in 2013, Bosch Engineering Center Cluj plays an essential role in the current transformation of the mobility sector. Through its extensive expertise in software, hardware & mechanical engineering, reliability engineering, as well as sales planning, the center contributes to the development of innovative products and services based on artificial intelligence (AI) applied in the fields of automated driving, electric and connected mobility. Thanks to the diverse professional and personal development opportunities, flexible working conditions, modern offices and laboratories in Cluj-Napoca, Jucu, Bucharest and Sibiu, we are one of the most desired employers among engineers and IT professionals in Romania.
+
+Our promise to our colleagues is rock-solid: we grow together, we enjoy our work, and inspire each other. Join us and see the difference.
+
+Work LikeABosch
+
+
+
+Job Description
+
+As a Working Student in Software System Testing & Test Automation you will have the opportunity to work with top system test engineers and understand how automotive systems work.
+
+In our Working Student program you will learn:
+
+how the automotive systems work;
+how to run tests in the Hardware-in-the-Loop environment;
+communication protocols used in automotive;
+testing principles and development of test cases;
+automation of test cases using Python and internal tools;
+analysis of failures, bugs.
+Technology stack:
+
+Python;
+C;
+C++;
+Matlab;
+Version source control (e.g. Git, Bitbucket, SVN);
+Communication protocols (e.g. Ethernet, CAN, Flexray, SPI, I2C);
+Vehicle Simulation Tools;
+Software in the Loop;
+Hardware in the Loop;
+Hardware (Oscilloscopes, programmable power supplies, PCBs, debuggers).
+
+Qualifications
+
+Test Process, Test methods;
+Programming;
+Microcontrollers/Microprocessors;
+Electronics;
+Physics;
+Automotive Systems.
+The languages you should know:
+
+English – a good level is mandatory.
+
+Additional Information
+
+LikeABosch Benefits:
+
+Your work-life balance is valuable to us, so we offer you:
+
+25 Days of annual leave, because work-life balance is essential to us;
+Flexible working hours.
+Your health and well-being is important to us, so we have you covered:
+
+Medical subscription;
+Accident insurance;
+Sport activities and well-being initiatives.
+We believe in a Life-Long Learning approach, so you can take advantage of:
+
+Technical and soft skills trainings;
+Access to e-learning platforms;
+Local and Global career development programs;
+Opportunity to attend conferences;
+Bookster subscription.
+You will be part of a product company. You will contribute to developing end-to-end products that are delivered to Global OEMs.
+
+On top of these, we are offering:
+
+A monthly budget which can be used for several different services on an online benefit platform;
+Annual bonus;
+Lunch discounts.
+Ready to work LikeABosch?
+
+We live by our values, have an open feedback culture and there is plenty of room for innovative ideas. All because a team is only as valuable as its members.

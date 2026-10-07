@@ -1,0 +1,47 @@
+{
+  "name": "John Doe",
+  "contact": {
+    "email": "john.doe@example.com",
+    "phone": "07xx xxx xxx",
+    "linkdin": "https://www.linkedin.com/in/johndoe",
+    "github": "url_profile_github"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Example",
+      "year": 2020
+    },
+    {
+      "degree": "Master of Science in Data Science",
+      "institution": "Example University",
+      "year": 2022
+    }
+  ],
+  "skills": ["Python", "JavaScript", "SQL"],
+  "projects": [
+    {
+      "name": "Project A",
+      "description": "A web application for managing tasks.",
+      "technologies": ["React", "Node.js", "MongoDB"]
+    },
+    {
+      "name": "Project B",
+      "description": "A machine learning model for predicting stock prices.",
+      "technologies": ["Python", "scikit-learn", "Pandas"]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Software Engineer",
+      "company": "Tech Solutions Inc.",
+      "duration": "2020-2022",
+      "responsibilities": [
+        "Developed and maintained web applications using React and Node.js.",
+        "Collaborated with cross-functional teams to design and implement new features.",
+        "Optimized database queries and improved application performance."
+      ]
+    }
+  ],
+  "languages": ["English", "Spanish"]
+}
